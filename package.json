@@ -1,0 +1,32 @@
+{
+  "name": "zelo-backend",
+  "version": "0.1.0",
+  "description": "Zelo's backend",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.7.1"
+  },
+  "devDependencies": {
+    "mongoose": "5.7.1",
+    "express": "4.17.1"
+  },
+  "scripts": {
+    "test": "node -v",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasHaddad/zeloBackend.git"
+  },
+  "keywords": [
+    "zelo",
+    "backend"
+  ],
+  "author": "lucas haddad <lucasmh97@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LucasHaddad/zeloBackend/issues"
+  },
+  "homepage": "https://github.com/LucasHaddad/zeloBackend#readme"
+}
