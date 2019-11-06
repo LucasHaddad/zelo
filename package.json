@@ -5,10 +5,10 @@
   "main": "index.js",
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^5.7.1"
+    "mongoose": "^5.7.5"
   },
   "devDependencies": {
-    "mongoose": "5.7.1",
+    "mongoose": "5.7.5",
     "express": "4.17.1"
   },
   "scripts": {
